@@ -2,7 +2,7 @@
 
 # qscommons
 
-qscommons is a home for open quantum work. It starts with software, and is built to hold learning sites, hardware development guides and research too.
+[qscommons](https://qscommons.org) is a home for open quantum work. It starts with software, and is built to hold learning sites, hardware development guides and research too.
 
 Every project is held to the same standard:
 
@@ -15,6 +15,7 @@ Every project is held to the same standard:
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| [qscommons.org](https://qscommons.org) | qscommons.org live site | Live |
 | [qsengine](https://github.com/qscommons/qsengine) | A state-vector quantum circuit simulator for Python, on any CPU or GPU | Stable |
 | [qsengine-site](https://github.com/qscommons/qsengine-site) | qsengine's documentation site | Live |
 

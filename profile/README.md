@@ -17,7 +17,7 @@ Every project is held to the same standard:
 | --- | --- | --- |
 | [qscommons.org](https://qscommons.org) | qscommons.org live site | Live |
 | [qsengine](https://github.com/qscommons/qsengine) | A state-vector quantum circuit simulator for Python, on any CPU or GPU | Stable |
-| [qsengine-site](https://github.com/qscommons/qsengine-site) | qsengine's documentation site | Live |
+| [qsengine docs](https://qsengine.qscommons.org/docs/)) | qsengine's documentation site | Live |
 
 ## Get involved
 
